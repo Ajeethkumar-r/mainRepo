@@ -2,4 +2,6 @@ keep going devs.
 
 speed up
 
+lights up
+
 need to restore this change
